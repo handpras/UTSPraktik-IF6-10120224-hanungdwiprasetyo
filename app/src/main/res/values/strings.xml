@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UTSPraktik-IF6-10120224-hanungdwiprasetyo</string>
+    <string name="pelaksanaan">Pelaksanaan PPDB Tahap 1 - 2023</string>
+    <string name="detail">Detail</string>
+    <string name="persiapan">Persiapan</string>
+    <string name="tanggal">17 Mei - 05 Juni 2023</string>
+    <string name="pengumuman">Pengumuman Hasil Seleksi</string>
+    <string name="diterima">Anda dinyatakan diterima di</string>
+    <string name="sekolah">SMA Negeri 1 Bojonggede</string>
+    <string name="jalur">Jalur Prestasi Kejuaraan</string>
+    <string name="layanan">Layanan PPDB</string>
+    <string name="kota">Kota Bandung</string>
+    <string name="info">Info Sekolah PPDB</string>
+    <string name="sosial">Sosialisasi PPDB</string>
+    <string name="register">Pendaftaran PPDB Tahap 1</string>
+    <string name="pengumuman_ppdb">Pengumuman PPDB Tahap 1</string>
+    <string name="hotline">Hotline</string>
+    <string name="berita">Berita Terkait PPDB</string>
+    <string name="dapatkan">Dapatkan semua informasi terbaru dan terpopuler terkait PPDB</string>
+
+</resources>
